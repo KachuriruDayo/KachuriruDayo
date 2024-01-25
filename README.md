@@ -1,4 +1,4 @@
-<img src="./header.png" width="1280px" height="450"/>
+<img src="./header.png" width="1280px" height="150"/>
 <!--
 **KachuriruDayo/KachuriruDayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
