@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VuOWl5eTNwaWV0anU5OTIxeTNmN2I4ZWltcWZreWRodGQ3cDZrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" width="100"/>
-</div>
+<img src="./header.png" width="1280px" height="450"/>
 <!--
 **KachuriruDayo/KachuriruDayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
