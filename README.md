@@ -8,9 +8,18 @@
 ꜰʀᴏɴᴛᴇɴᴅ ᴀɴᴅ ʙᴇɢɪɴɴᴇʀ ꜰᴜʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʀᴜꜱꜱɪᴀ​ 🇷🇺
 </h3>
 <div>
-<h3>Little about me</h3>
-<p></p>
-<p></p>
+  <h3>Little about me</h3>
+  <p>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</p>
+  <p>
+    I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
+  </p>
+  <p>HTML5 <img src='./mediaFiles/html5.svg'/></p>
+  <p>CSS3/SCSS <img src='./mediaFiles/css3.svg'/></p>
+  <p>JavaScript <img src='./mediaFiles/javascript.svg'/></p>
+  <p>TypeScript <img src='./mediaFiles/typescript.svg'/></p>
+  <p>React <img src='./mediaFiles/react.svg'/></p>
+  <p>React Router <img src='./mediaFiles/reactrouter.svg'/></p>
+  <p>Redux <img src='./mediaFiles/redux.svg'/></p>
 </div>
 
 
