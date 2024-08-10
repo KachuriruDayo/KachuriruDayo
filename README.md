@@ -13,13 +13,13 @@
   <p>
     I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
   </p>
-  <p>HTML5 <img width='24' src='./mediaFiles/html5.svg'/></p>
-  <p>CSS3/SCSS <img width='24' src='./mediaFiles/css3.svg'/></p>
-  <p>JavaScript <img width='24' src='./mediaFiles/javascript.svg'/></p>
-  <p>TypeScript <img width='24' src='./mediaFiles/typescript.svg'/></p>
-  <p>React <img width='24' src='./mediaFiles/react.svg'/></p>
-  <p>React Router <img  width='24'src='./mediaFiles/reactrouter.svg'/></p>
-  <p>Redux <img width='24' src='./mediaFiles/redux.svg'/></p>
+  <h3>HTML5 <img width='24' src='./mediaFiles/html5.svg'/></h3>
+  <h3>CSS3/SCSS <img width='24' src='./mediaFiles/css3.svg'/></h3>
+  <h3>JavaScript <img width='24' src='./mediaFiles/javascript.svg'/></h3>
+  <h3>TypeScript <img width='24' src='./mediaFiles/typescript.svg'/></h3>
+  <h3>React <img width='24' src='./mediaFiles/react.svg'/></h3>
+  <h3>React Router <img  width='24'src='./mediaFiles/reactrouter.svg'/></h3>
+  <h3>Redux <img width='24' src='./mediaFiles/redux.svg'/></h3>
 </div>
 
 
