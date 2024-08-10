@@ -7,7 +7,12 @@
 <h3 align="center">​
 ꜰʀᴏɴᴛᴇɴᴅ ᴀɴᴅ ʙᴇɢɪɴɴᴇʀ ꜰᴜʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʀᴜꜱꜱɪᴀ​ 🇷🇺
 </h3>
+<div>
+<h3>Little about me</h3>
 <p></p>
+<p></p>
+</div>
+
 
 <a align='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+slab&weight=500&size=25&pause=1000&color=226BF7&width=600&lines=It%60s+more+interesting+to+develop" alt="Typing SVG" /></a>
 
