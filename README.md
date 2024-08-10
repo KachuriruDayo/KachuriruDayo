@@ -4,7 +4,8 @@
 
 <h1 align="center"> 🄷🄴🅈, 🄸'🄼 <a href="https://vk.com/kachudayo" target="_blank">🇦​​🇷​​🇸​​🇪​​🇳​​🇮​​🇾​</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">【﻿Ｆｒｏｎｔｅｎｄ　ａｎｄ　ｂｅｇｉｎｎｅｒ　Ｆｕｌｓｔａｃｋ　ｄｅｖｅｌｏｐｅｒ　ｆｒｏｍ　Ｒｕｓｓｉａ】🇷🇺
+<h3 align="center">​
+🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇦​​🇳​​🇩​ ​🇧​​🇪​​🇬​​🇮​​🇳​​🇳​​🇪​​🇷​ ​🇫​​🇺​​🇱​​🇸​​🇹​​🇦​​🇨​​🇰​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷​ ​🇫​​🇷​​🇴​​🇲​ ​🇷​​🇺​​🇸​​🇸​​🇮​​🇦​ 🇷🇺
 </h3>
 <p></p>
 
