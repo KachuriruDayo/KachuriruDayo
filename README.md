@@ -13,7 +13,7 @@
   <p>
     I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
   </p>
-  <p>HTML5 <div width='24' height='24' background-color='#E34F26'><img src='./mediaFiles/html5.svg'/></div></p>
+  <p>HTML5 <img width='24' src='./mediaFiles/html5.svg'/></p>
   <p>CSS3/SCSS <img width='24' src='./mediaFiles/css3.svg'/></p>
   <p>JavaScript <img width='24' src='./mediaFiles/javascript.svg'/></p>
   <p>TypeScript <img width='24' src='./mediaFiles/typescript.svg'/></p>
