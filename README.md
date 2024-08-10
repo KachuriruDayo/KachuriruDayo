@@ -4,10 +4,11 @@
 
 <h1 align="center"> 🄷🄴🅈, 🄸'🄼 <a href="https://vk.com/kachudayo" target="_blank">🇦​​🇷​​🇸​​🇪​​🇳​​🇮​​🇾​</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">🄵🅁🄾🄽🅃🄴🄽🄳 🄰🄽🄳 🄱🄴🄶🄸🄽🄽🄴🅁 🄵🅄🄻🄻🅂🅃🄰🄲🄺 🄳🄴🅅🄴🄻🄾🄿🄴🅁 🄵🅁🄾🄼 🅁🅄🅂🅂🄸🄰 🇷🇺</h3>
+<h3 align="center">【﻿Ｆｒｏｎｔｅｎｄ　ａｎｄ　ｂｅｇｉｎｎｅｒ　Ｆｕｌｓｔａｃｋ　ｄｅｖｅｌｏｐｅｒ　ｆｒｏｍ　Ｒｕｓｓｉａ】🇷🇺
+</h3>
 <p></p>
 
-<a href="https://git.io/typing-svg"><img align='center' src="https://readme-typing-svg.herokuapp.com?font=Roboto+slab&weight=500&size=25&pause=1000&color=226BF7&width=600&lines=It%60s+more+interesting+to+develop" alt="Typing SVG" /></a>
+<a align='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+slab&weight=500&size=25&pause=1000&color=226BF7&width=600&lines=It%60s+more+interesting+to+develop" alt="Typing SVG" /></a>
 
 <!--
 **KachuriruDayo/KachuriruDayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
