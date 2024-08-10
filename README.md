@@ -13,13 +13,7 @@
   <p>
     I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
   </p>
-  <p>HTML5 <img src='./mediaFiles/html5.svg'/></p>
-  <p>CSS3/SCSS <img src='./mediaFiles/css3.svg'/></p>
-  <p>JavaScript <img src='./mediaFiles/javascript.svg'/></p>
-  <p>TypeScript <img src='./mediaFiles/typescript.svg'/></p>
-  <p>React <img src='./mediaFiles/react.svg'/></p>
-  <p>React Router <img src='./mediaFiles/reactrouter.svg'/></p>
-  <p>Redux <img src='./mediaFiles/redux.svg'/></p>
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
 </div>
 
 
