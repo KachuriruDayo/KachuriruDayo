@@ -4,15 +4,15 @@
 
 <h1 align="center"> 🄷🄴🅈, 🄸'🄼 <a href="https://vk.com/kachudayo" target="_blank">🇦​​🇷​​🇸​​🇪​​🇳​​🇮​​🇾​</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">​
+<h2 align="center">​
 ꜰʀᴏɴᴛᴇɴᴅ ᴀɴᴅ ʙᴇɢɪɴɴᴇʀ ꜰᴜʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʀᴜꜱꜱɪᴀ​ 🇷🇺
-</h3>
+</h2>
 <div>
-  <h3>Little about me</h3>
-  <p>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</p>
-  <p>
+  <h2>Little about me</h2>
+  <h4>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</h4>
+  <h4>
     I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
-  </p>
+  </h4>
   <h3>HTML5 <img width='24' src='./mediaFiles/html5.svg'/></h3>
   <h3>CSS3/SCSS <img width='24' src='./mediaFiles/css3.svg'/></h3>
   <h3>JavaScript <img width='24' src='./mediaFiles/javascript.svg'/></h3>
