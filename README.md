@@ -1,18 +1,19 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VuOWl5eTNwaWV0anU5OTIxeTNmN2I4ZWltcWZreWRodGQ3cDZrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" width="100"/>
 </div>
-
+<div>
 <h1 align="center"> 🄷🄴🅈, 🄸'🄼 <a href="https://vk.com/kachudayo" target="_blank">🇦​​🇷​​🇸​​🇪​​🇳​​🇮​​🇾​</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">​
 ꜰʀᴏɴᴛᴇɴᴅ ᴀɴᴅ ʙᴇɢɪɴɴᴇʀ ꜰᴜʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʀᴜꜱꜱɪᴀ​ 🇷🇺
 </h2>
+</div>
 <div>
   <h2>Little about me</h2>
-  <h4>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</h4>
-  <h4>
+  <p size ='24'>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</p>
+  <p size ='24'>
     I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
-  </h4>
+  </p>
   <h3>HTML5 <img width='24' src='./mediaFiles/html5.svg'/></h3>
   <h3>CSS3/SCSS <img width='24' src='./mediaFiles/css3.svg'/></h3>
   <h3>JavaScript <img width='24' src='./mediaFiles/javascript.svg'/></h3>
