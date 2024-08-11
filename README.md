@@ -15,7 +15,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KachuriruDayo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Little about me</h2>
-<p size ='24'>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</p>
+<p size ='24'>
+My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)<br>My name is Arseniy, i`m 21 years old. Homebody, but sociable and friendly, does not mind chatting on various topics, but without politics)
+</p>
 <p size ='24'>
   I am engaged in frontend development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
 </p>
