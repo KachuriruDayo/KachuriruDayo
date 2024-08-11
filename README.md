@@ -9,10 +9,12 @@
 </h2>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KachuriruDayo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <h2>Little about me</h2>
 <p size ='24'>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</p>
 <p size ='24'>
-  I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
+  I am engaged in frontend development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
 </p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +26,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
 
 <h3> My design instruments </h3>
 
