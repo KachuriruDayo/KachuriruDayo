@@ -42,6 +42,10 @@ My name is Optimus Prime, we are autonomous robots from the planet cybertron...<
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
+<div></div>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <a align='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+slab&weight=500&size=25&pause=1000&color=226BF7&width=600&lines=It%60s+more+interesting+to+develop" alt="Typing SVG" /></a>
 
 <!--
