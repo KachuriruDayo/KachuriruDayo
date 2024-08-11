@@ -8,20 +8,24 @@
 ꜰʀᴏɴᴛᴇɴᴅ ᴀɴᴅ ʙᴇɢɪɴɴᴇʀ ꜰᴜʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʀᴜꜱꜱɪᴀ​ 🇷🇺
 </h2>
 </div>
-<div>
-  <h2>Little about me</h2>
-  <p size ='24'>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</p>
-  <p size ='24'>
-    I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
-  </p>
-  <h3>HTML5 <img width='24' src='./mediaFiles/html5.svg'/></h3>
-  <h3>CSS3/SCSS <img width='24' src='./mediaFiles/css3.svg'/></h3>
-  <h3>JavaScript <img width='24' src='./mediaFiles/javascript.svg'/></h3>
-  <h3>TypeScript <img width='24' src='./mediaFiles/typescript.svg'/></h3>
-  <h3>React <img width='24' src='./mediaFiles/react.svg'/></h3>
-  <h3>React Router <img  width='24'src='./mediaFiles/reactrouter.svg'/></h3>
-  <h3>Redux <img width='24' src='./mediaFiles/redux.svg'/></h3>
-</div>
+
+<h2>Little about me</h2>
+<p size ='24'>My name is Optimus Prime, we are autonomous robots from the planet cybertron...<br>It`s joke;)</p>
+<p size ='24'>
+  I am engaged in front-end development, but I am actively learning the backend in order to become a fullstack developer. So far my stack looks like this:
+</p>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+
 <h3> My design instruments </h3>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
