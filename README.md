@@ -9,6 +9,8 @@
 </h2>
 </div>
 
+![](https://komarev.com/ghpvc/?username=KachuriruDayo)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KachuriruDayo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KachuriruDayo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
