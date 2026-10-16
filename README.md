@@ -3,7 +3,7 @@
 </div>
 <div>
 <h1 align="center">
-🄷🄴🅈, 🄸'🄼 <a href="https://vk.com/kachudayo" target="_blank">🇦​​🇷​​🇸​​🇪​​🇳​​🇮​​🇾​</a> 
+🄷🄴🅈, 🄸'🄼 <a href="https://vk.com/modev_midnight" target="_blank">🇦​​🇷​​🇸​​🇪​​🇳​​🇮​​🇾​</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="hi gif"/>
 </h1>
 <h2 align="center">​
@@ -13,16 +13,16 @@
 
 ![](https://komarev.com/ghpvc/?username=KachuriruDayo)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KachuriruDayo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KachuriruDayo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KachuriruDayo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Little about me</h2>
-<p size ='24'>
+<p>
 My name is Optimus Prime, we are autonomous robots from the planet Cybertron...<br>
 Just kidding ;)<br>
-My name is Arseniy, I am 21 years old. Introvert, but sociable and friendly, not averse to chatting about various topics, but without politics;)
+My name is Arseniy, I am 22 years old. Introvert, but sociable and friendly, not averse to chatting about various topics, but without politics;)
 </p>
-<p size ='24'>
+<p>
 I am engaged in web development, I can already write a 
 full-fledged web application, but I emphasize on frontend 
 (there is a place to grow). In the future I would like to 
@@ -41,6 +41,20 @@ focus on writing backend. Currently my stack looks like this:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![1C-Bitrix](https://img.shields.io/badge/1C--Bitrix-2FC7F7?style=for-the-badge&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <h3> My design instruments </h3>
 
