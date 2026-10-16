@@ -18,21 +18,29 @@
 
 <h2>Little about me</h2>
 <p>
-My name is Optimus Prime, we are autonomous robots from the planet Cybertron...<br>
-Just kidding ;)<br>
-My name is Arseniy, I am 22 years old. Introvert, but sociable and friendly, not averse to chatting about various topics, but without politics;)
+Hi, I'm Arseniy, 23. Fullstack / Systems Engineer: I build web applications end to end — from UI and client logic to backend, databases, integrations and deployment.
 </p>
 <p>
-I am engaged in web development, I can already write a 
-full-fledged web application, but I emphasize on frontend 
-(there is a place to grow). In the future I would like to 
-focus on writing backend. Currently my stack looks like this:
+Day to day I work with TypeScript, React, Next.js and Node.js (NestJS/Express), plus Go for services and integration layers and C# (.NET, WPF) for desktop companions. I also handle infrastructure: Linux, Docker, Windows Server and Active Directory.
+</p>
+<p>
+Currently building Go services for Russian enterprise integrations: 1C, warehouse TSD apps, "Chestny Znak" (GIS MT) labeling, WMS sync with MoySklad and Bitrix24.
+</p>
+<p>
+I care about architecture: reliability, maintainability and running solutions in the real world. Stack:
 </p>
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
